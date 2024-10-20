@@ -77,11 +77,9 @@ cd ticket-booking-system
 
 <h2>Hackathon Experience</h2>
 <p>
-    In this hackathon, our team worked on integrating machine learning and NLP techniques to enhance the user experience for booking tickets to historical places. We built a recommendation model using <strong>CountVectorizer</strong> and <strong>Cosine Similarity</strong> to suggest places based on the user's preferences, helping users discover new and similar places.
+    In this hackathon, I worked on integrating machine learning and NLP techniques to enhance the user experience for booking tickets to historical places. I built a recommendation model using <strong>CountVectorizer</strong> and <strong>Cosine Similarity</strong> to suggest places based on the user's preferences, helping users discover new and similar places.
 </p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 </body>
 </html>
