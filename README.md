@@ -11,8 +11,8 @@
 
 <h2>Features</h2>
 <ul>
-    <li><strong>Online Ticket Booking:</strong> Users can book tickets for historical places through an interactive chatbot.</li>
     <li><strong>Recommender System:</strong> The system suggests new places based on the user's highest-rated places from an API.</li>
+    <li><strong>Recommendation based on description :</strong> The system suggests new places based on the description of the place on basis of other most similar description . </li>
     <li><strong>NLP for Recommendations:</strong> NLP techniques are used to preprocess text, remove stopwords, and analyze descriptions of places to suggest similar ones.</li>
     <li><strong>Cosine Similarity for Matching:</strong> Cosine Similarity is used to compare places based on the descriptions, providing recommendations of the most similar places.</li>
 </ul>
