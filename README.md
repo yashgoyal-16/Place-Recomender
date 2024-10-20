@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 
 <title> Online Ticket Booking System with Recommender Model </title>
 <body>
