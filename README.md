@@ -1,6 +1,5 @@
 
 
-<title> Online Ticket Booking System with Recommender Model </title>
 <body>
 
 <h1>Online Ticket Booking System with Recommender Model</h1>
