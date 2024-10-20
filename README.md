@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Online Ticket Booking System with Recommender Model</title>
-</head>
+
+<title> Online Ticket Booking System with Recommender Model </title>
 <body>
 
 <h1>Online Ticket Booking System with Recommender Model</h1>
@@ -64,7 +61,7 @@
 <h2>Usage</h2>
 <ol>
     <li>Clone the repository:
-        <pre><code>git clone https://github.com/your-repo/ticket-booking-system.git
+        <pre><code>git clone https://github.com/yashgoyal-16/Place-Recomender
 cd ticket-booking-system
         </code></pre>
     </li>
