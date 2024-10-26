@@ -60,7 +60,7 @@
 <ol>
     <li>Clone the repository:
         <pre><code>git clone https://github.com/yashgoyal-16/Place-Recomender
-cd ticket-booking-system
+cd Place-Recomender
         </code></pre>
     </li>
     <li>Install dependencies:
